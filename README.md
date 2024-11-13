@@ -31,3 +31,6 @@
 
 ### 实践项目
 [InternPolit](https://github.com/shenhai-ran/InternPilot)
+
+## 其他相关网页
+[书生·浦语网页版](https://internlm-chat.intern-ai.org.cn/suggestion)
