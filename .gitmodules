@@ -1,3 +1,6 @@
 [submodule "BookAI"]
 	path = BookAI
 	url = git@github.com:langgptai/BookAI.git
+[submodule "intern_cobuild"]
+	path = intern_cobuild
+	url = git@hf.co:spaces/ranshenhai/intern_cobuild
