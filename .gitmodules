@@ -1,0 +1,3 @@
+[submodule "BookAI"]
+	path = BookAI
+	url = git@github.com:langgptai/BookAI.git
