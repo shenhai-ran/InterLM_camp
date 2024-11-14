@@ -28,6 +28,6 @@ documents = SimpleDirectoryReader("/root/llamaindex_demo2/data").load_data()
 index = VectorStoreIndex.from_documents(documents)
 # 创建一个查询引擎，这个引擎可以接收查询并返回相关文档的响应。
 query_engine = index.as_query_engine()
-response = query_engine.query("xtuner是什么?")
+response = query_engine.query("美国第47届总统是谁？")
 
 print(response)
