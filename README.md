@@ -22,8 +22,8 @@
 |第 2 关| 玩转书生「多模态对话」和「AI搜索」产品 |[作业](./assignments/2%20intermediate/2.2%20playground.md) |
 |第 3 关| 浦语提示词工程实践 |[作业](./assignments/2%20intermediate/2.3%20prompt_engineering.md) | 
 |第 4 关| InternLM + LlamaIndex RAG 实践|[作业](./assignments/2%20intermediate/2.4%20RAG.md)|
-|第 6 关| XTuner 微调个人小助手认知 ||
-|第 7 关| OpenCompass 评测书生大模型实践 ||
+|第 5 关| XTuner 微调个人小助手认知 |[作业](./assignments/2%20intermediate/2.5%20Finetune.md)|
+|第 6 关| OpenCompass 评测书生大模型实践 ||
 
 ### 进阶关卡
 
