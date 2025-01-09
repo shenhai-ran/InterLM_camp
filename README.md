@@ -23,7 +23,7 @@
 |第 3 关| 浦语提示词工程实践 |[作业](./assignments/2%20intermediate/2.3%20prompt_engineering.md) | 
 |第 4 关| InternLM + LlamaIndex RAG 实践|[作业](./assignments/2%20intermediate/2.4%20RAG.md)|
 |第 5 关| XTuner 微调个人小助手认知 |[作业](./assignments/2%20intermediate/2.5%20Finetune.md)|
-|第 6 关| OpenCompass 评测书生大模型实践 ||
+|第 6 关| OpenCompass 评测书生大模型实践 |[作业](./assignments/2%20intermediate/2.6%20OpenCompass.md)|
 
 ### 进阶关卡
 

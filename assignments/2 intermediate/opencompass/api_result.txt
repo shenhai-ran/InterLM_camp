@@ -1,0 +1,222 @@
+20250110_054533
+tabulate format
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+dataset                                           version    metric    mode      opencompass.models.OpenAISDK_opencompass_internlm2.5-latest
+------------------------------------------------  ---------  --------  ------  -------------------------------------------------------------
+demo_cmmlu-agronomy                               4c7f2c     accuracy  gen                                                            100.00
+demo_cmmlu-anatomy                                ea09bf     accuracy  gen                                                            100.00
+demo_cmmlu-ancient_chinese                        f7c97f     accuracy  gen                                                            100.00
+demo_cmmlu-arts                                   dd77b8     accuracy  gen                                                            100.00
+demo_cmmlu-astronomy                              1e49db     accuracy  gen                                                            100.00
+demo_cmmlu-business_ethics                        dc78cb     accuracy  gen                                                            100.00
+demo_cmmlu-chinese_civil_service_exam             1de82c     accuracy  gen                                                            100.00
+demo_cmmlu-chinese_driving_rule                   b8a42b     accuracy  gen                                                              0.00
+demo_cmmlu-chinese_food_culture                   2d568a     accuracy  gen                                                            100.00
+demo_cmmlu-chinese_foreign_policy                 dc2427     accuracy  gen                                                            100.00
+demo_cmmlu-chinese_history                        4cc7ed     accuracy  gen                                                            100.00
+demo_cmmlu-chinese_literature                     af3c41     accuracy  gen                                                            100.00
+demo_cmmlu-chinese_teacher_qualification          87de11     accuracy  gen                                                            100.00
+demo_cmmlu-clinical_knowledge                     c55b1d     accuracy  gen                                                            100.00
+demo_cmmlu-college_actuarial_science              d3c360     accuracy  gen                                                              0.00
+demo_cmmlu-college_education                      df8790     accuracy  gen                                                            100.00
+demo_cmmlu-college_engineering_hydrology          673f23     accuracy  gen                                                              0.00
+demo_cmmlu-college_law                            524c3a     accuracy  gen                                                              0.00
+demo_cmmlu-college_mathematics                    e4ebad     accuracy  gen                                                              0.00
+demo_cmmlu-college_medical_statistics             55af35     accuracy  gen                                                            100.00
+demo_cmmlu-college_medicine                       702f48     accuracy  gen                                                            100.00
+demo_cmmlu-computer_science                       637007     accuracy  gen                                                            100.00
+demo_cmmlu-computer_security                      932b6b     accuracy  gen                                                            100.00
+demo_cmmlu-conceptual_physics                     cfc077     accuracy  gen                                                            100.00
+demo_cmmlu-construction_project_management        968a4a     accuracy  gen                                                            100.00
+demo_cmmlu-economics                              ddaf7c     accuracy  gen                                                              0.00
+demo_cmmlu-education                              c35963     accuracy  gen                                                            100.00
+demo_cmmlu-electrical_engineering                 70e98a     accuracy  gen                                                            100.00
+demo_cmmlu-elementary_chinese                     cbcd6a     accuracy  gen                                                              0.00
+demo_cmmlu-elementary_commonsense                 a67f37     accuracy  gen                                                            100.00
+demo_cmmlu-elementary_information_and_technology  d34d2a     accuracy  gen                                                            100.00
+demo_cmmlu-elementary_mathematics                 a9d403     accuracy  gen                                                              0.00
+demo_cmmlu-ethnology                              31955f     accuracy  gen                                                            100.00
+demo_cmmlu-food_science                           741d8e     accuracy  gen                                                            100.00
+demo_cmmlu-genetics                               c326f7     accuracy  gen                                                            100.00
+demo_cmmlu-global_facts                           0a1236     accuracy  gen                                                              0.00
+demo_cmmlu-high_school_biology                    2be811     accuracy  gen                                                            100.00
+demo_cmmlu-high_school_chemistry                  d63c05     accuracy  gen                                                              0.00
+demo_cmmlu-high_school_geography                  5cd489     accuracy  gen                                                            100.00
+demo_cmmlu-high_school_mathematics                6b2087     accuracy  gen                                                              0.00
+demo_cmmlu-high_school_physics                    3df353     accuracy  gen                                                            100.00
+demo_cmmlu-high_school_politics                   7a88d8     accuracy  gen                                                            100.00
+demo_cmmlu-human_sexuality                        54ac98     accuracy  gen                                                              0.00
+demo_cmmlu-international_law                      0f5d40     accuracy  gen                                                              0.00
+demo_cmmlu-journalism                             a4f6a0     accuracy  gen                                                            100.00
+demo_cmmlu-jurisprudence                          7843da     accuracy  gen                                                            100.00
+demo_cmmlu-legal_and_moral_basis                  f906b0     accuracy  gen                                                            100.00
+demo_cmmlu-logical                                15a71b     accuracy  gen                                                            100.00
+demo_cmmlu-machine_learning                       bc6ad4     accuracy  gen                                                            100.00
+demo_cmmlu-management                             e5e8db     accuracy  gen                                                            100.00
+demo_cmmlu-marketing                              8b4c18     accuracy  gen                                                            100.00
+demo_cmmlu-marxist_theory                         75eb79     accuracy  gen                                                              0.00
+demo_cmmlu-modern_chinese                         83a9b7     accuracy  gen                                                            100.00
+demo_cmmlu-nutrition                              adfff7     accuracy  gen                                                              0.00
+demo_cmmlu-philosophy                             75e22d     accuracy  gen                                                            100.00
+demo_cmmlu-professional_accounting                0edc91     accuracy  gen                                                            100.00
+demo_cmmlu-professional_law                       d24af5     accuracy  gen                                                              0.00
+demo_cmmlu-professional_medicine                  134139     accuracy  gen                                                            100.00
+demo_cmmlu-professional_psychology                ec920e     accuracy  gen                                                            100.00
+demo_cmmlu-public_relations                       70ee06     accuracy  gen                                                              0.00
+demo_cmmlu-security_study                         45f96f     accuracy  gen                                                            100.00
+demo_cmmlu-sociology                              485285     accuracy  gen                                                              0.00
+demo_cmmlu-sports_science                         838cfe     accuracy  gen                                                            100.00
+demo_cmmlu-traditional_chinese_medicine           3bbf64     accuracy  gen                                                            100.00
+demo_cmmlu-virology                               8925bf     accuracy  gen                                                            100.00
+demo_cmmlu-world_history                          57c97c     accuracy  gen                                                            100.00
+demo_cmmlu-world_religions                        1d0f4b     accuracy  gen                                                            100.00
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+-------------------------------------------------------------------------------------------------------------------------------- THIS IS A DIVIDER --------------------------------------------------------------------------------------------------------------------------------
+
+csv format
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+dataset,version,metric,mode,opencompass.models.OpenAISDK_opencompass_internlm2.5-latest
+demo_cmmlu-agronomy,4c7f2c,accuracy,gen,100.00
+demo_cmmlu-anatomy,ea09bf,accuracy,gen,100.00
+demo_cmmlu-ancient_chinese,f7c97f,accuracy,gen,100.00
+demo_cmmlu-arts,dd77b8,accuracy,gen,100.00
+demo_cmmlu-astronomy,1e49db,accuracy,gen,100.00
+demo_cmmlu-business_ethics,dc78cb,accuracy,gen,100.00
+demo_cmmlu-chinese_civil_service_exam,1de82c,accuracy,gen,100.00
+demo_cmmlu-chinese_driving_rule,b8a42b,accuracy,gen,0.00
+demo_cmmlu-chinese_food_culture,2d568a,accuracy,gen,100.00
+demo_cmmlu-chinese_foreign_policy,dc2427,accuracy,gen,100.00
+demo_cmmlu-chinese_history,4cc7ed,accuracy,gen,100.00
+demo_cmmlu-chinese_literature,af3c41,accuracy,gen,100.00
+demo_cmmlu-chinese_teacher_qualification,87de11,accuracy,gen,100.00
+demo_cmmlu-clinical_knowledge,c55b1d,accuracy,gen,100.00
+demo_cmmlu-college_actuarial_science,d3c360,accuracy,gen,0.00
+demo_cmmlu-college_education,df8790,accuracy,gen,100.00
+demo_cmmlu-college_engineering_hydrology,673f23,accuracy,gen,0.00
+demo_cmmlu-college_law,524c3a,accuracy,gen,0.00
+demo_cmmlu-college_mathematics,e4ebad,accuracy,gen,0.00
+demo_cmmlu-college_medical_statistics,55af35,accuracy,gen,100.00
+demo_cmmlu-college_medicine,702f48,accuracy,gen,100.00
+demo_cmmlu-computer_science,637007,accuracy,gen,100.00
+demo_cmmlu-computer_security,932b6b,accuracy,gen,100.00
+demo_cmmlu-conceptual_physics,cfc077,accuracy,gen,100.00
+demo_cmmlu-construction_project_management,968a4a,accuracy,gen,100.00
+demo_cmmlu-economics,ddaf7c,accuracy,gen,0.00
+demo_cmmlu-education,c35963,accuracy,gen,100.00
+demo_cmmlu-electrical_engineering,70e98a,accuracy,gen,100.00
+demo_cmmlu-elementary_chinese,cbcd6a,accuracy,gen,0.00
+demo_cmmlu-elementary_commonsense,a67f37,accuracy,gen,100.00
+demo_cmmlu-elementary_information_and_technology,d34d2a,accuracy,gen,100.00
+demo_cmmlu-elementary_mathematics,a9d403,accuracy,gen,0.00
+demo_cmmlu-ethnology,31955f,accuracy,gen,100.00
+demo_cmmlu-food_science,741d8e,accuracy,gen,100.00
+demo_cmmlu-genetics,c326f7,accuracy,gen,100.00
+demo_cmmlu-global_facts,0a1236,accuracy,gen,0.00
+demo_cmmlu-high_school_biology,2be811,accuracy,gen,100.00
+demo_cmmlu-high_school_chemistry,d63c05,accuracy,gen,0.00
+demo_cmmlu-high_school_geography,5cd489,accuracy,gen,100.00
+demo_cmmlu-high_school_mathematics,6b2087,accuracy,gen,0.00
+demo_cmmlu-high_school_physics,3df353,accuracy,gen,100.00
+demo_cmmlu-high_school_politics,7a88d8,accuracy,gen,100.00
+demo_cmmlu-human_sexuality,54ac98,accuracy,gen,0.00
+demo_cmmlu-international_law,0f5d40,accuracy,gen,0.00
+demo_cmmlu-journalism,a4f6a0,accuracy,gen,100.00
+demo_cmmlu-jurisprudence,7843da,accuracy,gen,100.00
+demo_cmmlu-legal_and_moral_basis,f906b0,accuracy,gen,100.00
+demo_cmmlu-logical,15a71b,accuracy,gen,100.00
+demo_cmmlu-machine_learning,bc6ad4,accuracy,gen,100.00
+demo_cmmlu-management,e5e8db,accuracy,gen,100.00
+demo_cmmlu-marketing,8b4c18,accuracy,gen,100.00
+demo_cmmlu-marxist_theory,75eb79,accuracy,gen,0.00
+demo_cmmlu-modern_chinese,83a9b7,accuracy,gen,100.00
+demo_cmmlu-nutrition,adfff7,accuracy,gen,0.00
+demo_cmmlu-philosophy,75e22d,accuracy,gen,100.00
+demo_cmmlu-professional_accounting,0edc91,accuracy,gen,100.00
+demo_cmmlu-professional_law,d24af5,accuracy,gen,0.00
+demo_cmmlu-professional_medicine,134139,accuracy,gen,100.00
+demo_cmmlu-professional_psychology,ec920e,accuracy,gen,100.00
+demo_cmmlu-public_relations,70ee06,accuracy,gen,0.00
+demo_cmmlu-security_study,45f96f,accuracy,gen,100.00
+demo_cmmlu-sociology,485285,accuracy,gen,0.00
+demo_cmmlu-sports_science,838cfe,accuracy,gen,100.00
+demo_cmmlu-traditional_chinese_medicine,3bbf64,accuracy,gen,100.00
+demo_cmmlu-virology,8925bf,accuracy,gen,100.00
+demo_cmmlu-world_history,57c97c,accuracy,gen,100.00
+demo_cmmlu-world_religions,1d0f4b,accuracy,gen,100.00
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+-------------------------------------------------------------------------------------------------------------------------------- THIS IS A DIVIDER --------------------------------------------------------------------------------------------------------------------------------
+
+raw format
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------
+Model: opencompass.models.OpenAISDK_opencompass_internlm2.5-latest
+demo_cmmlu-agronomy: {'accuracy': 100.0}
+demo_cmmlu-anatomy: {'accuracy': 100.0}
+demo_cmmlu-ancient_chinese: {'accuracy': 100.0}
+demo_cmmlu-arts: {'accuracy': 100.0}
+demo_cmmlu-astronomy: {'accuracy': 100.0}
+demo_cmmlu-business_ethics: {'accuracy': 100.0}
+demo_cmmlu-chinese_civil_service_exam: {'accuracy': 100.0}
+demo_cmmlu-chinese_driving_rule: {'accuracy': 0.0}
+demo_cmmlu-chinese_food_culture: {'accuracy': 100.0}
+demo_cmmlu-chinese_foreign_policy: {'accuracy': 100.0}
+demo_cmmlu-chinese_history: {'accuracy': 100.0}
+demo_cmmlu-chinese_literature: {'accuracy': 100.0}
+demo_cmmlu-chinese_teacher_qualification: {'accuracy': 100.0}
+demo_cmmlu-clinical_knowledge: {'accuracy': 100.0}
+demo_cmmlu-college_actuarial_science: {'accuracy': 0.0}
+demo_cmmlu-college_education: {'accuracy': 100.0}
+demo_cmmlu-college_engineering_hydrology: {'accuracy': 0.0}
+demo_cmmlu-college_law: {'accuracy': 0.0}
+demo_cmmlu-college_mathematics: {'accuracy': 0.0}
+demo_cmmlu-college_medical_statistics: {'accuracy': 100.0}
+demo_cmmlu-college_medicine: {'accuracy': 100.0}
+demo_cmmlu-computer_science: {'accuracy': 100.0}
+demo_cmmlu-computer_security: {'accuracy': 100.0}
+demo_cmmlu-conceptual_physics: {'accuracy': 100.0}
+demo_cmmlu-construction_project_management: {'accuracy': 100.0}
+demo_cmmlu-economics: {'accuracy': 0.0}
+demo_cmmlu-education: {'accuracy': 100.0}
+demo_cmmlu-electrical_engineering: {'accuracy': 100.0}
+demo_cmmlu-elementary_chinese: {'accuracy': 0.0}
+demo_cmmlu-elementary_commonsense: {'accuracy': 100.0}
+demo_cmmlu-elementary_information_and_technology: {'accuracy': 100.0}
+demo_cmmlu-elementary_mathematics: {'accuracy': 0.0}
+demo_cmmlu-ethnology: {'accuracy': 100.0}
+demo_cmmlu-food_science: {'accuracy': 100.0}
+demo_cmmlu-genetics: {'accuracy': 100.0}
+demo_cmmlu-global_facts: {'accuracy': 0.0}
+demo_cmmlu-high_school_biology: {'accuracy': 100.0}
+demo_cmmlu-high_school_chemistry: {'accuracy': 0.0}
+demo_cmmlu-high_school_geography: {'accuracy': 100.0}
+demo_cmmlu-high_school_mathematics: {'accuracy': 0.0}
+demo_cmmlu-high_school_physics: {'accuracy': 100.0}
+demo_cmmlu-high_school_politics: {'accuracy': 100.0}
+demo_cmmlu-human_sexuality: {'accuracy': 0.0}
+demo_cmmlu-international_law: {'accuracy': 0.0}
+demo_cmmlu-journalism: {'accuracy': 100.0}
+demo_cmmlu-jurisprudence: {'accuracy': 100.0}
+demo_cmmlu-legal_and_moral_basis: {'accuracy': 100.0}
+demo_cmmlu-logical: {'accuracy': 100.0}
+demo_cmmlu-machine_learning: {'accuracy': 100.0}
+demo_cmmlu-management: {'accuracy': 100.0}
+demo_cmmlu-marketing: {'accuracy': 100.0}
+demo_cmmlu-marxist_theory: {'accuracy': 0.0}
+demo_cmmlu-modern_chinese: {'accuracy': 100.0}
+demo_cmmlu-nutrition: {'accuracy': 0.0}
+demo_cmmlu-philosophy: {'accuracy': 100.0}
+demo_cmmlu-professional_accounting: {'accuracy': 100.0}
+demo_cmmlu-professional_law: {'accuracy': 0.0}
+demo_cmmlu-professional_medicine: {'accuracy': 100.0}
+demo_cmmlu-professional_psychology: {'accuracy': 100.0}
+demo_cmmlu-public_relations: {'accuracy': 0.0}
+demo_cmmlu-security_study: {'accuracy': 100.0}
+demo_cmmlu-sociology: {'accuracy': 0.0}
+demo_cmmlu-sports_science: {'accuracy': 100.0}
+demo_cmmlu-traditional_chinese_medicine: {'accuracy': 100.0}
+demo_cmmlu-virology: {'accuracy': 100.0}
+demo_cmmlu-world_history: {'accuracy': 100.0}
+demo_cmmlu-world_religions: {'accuracy': 100.0}
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
